@@ -1,5 +1,6 @@
-## Hi there 👋
-
+## Hi there 👋🐈
+I'm Oskar Sundell, an IoT Dev student currently based in Stockholm, Sweden. With an interest in embedded systems, automation and security currently studying my final year at STockholms Tekniska Institut (STI).
+When I'm not in front of my computer I enjoy analog and digital photography, permaculture and gardening. Supporter of right to repair.
 <!--
 **ForestFarbrorn/ForestFarbrorn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
